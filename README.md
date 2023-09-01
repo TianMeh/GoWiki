@@ -1,5 +1,5 @@
 # GoWiki
-A simple wiki site in Golang
+This simple wiki repo/site was created to learn the fundamentals of the GO language
 
 ## setup
 1. pull the repo
