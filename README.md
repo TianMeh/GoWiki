@@ -3,7 +3,6 @@ A simple wiki site in go
 
 ## setup
 1. pull the repo
-2. 
 3. $ `go build wiki.go`
 4. $ `./wiki` or on windows: `wiki`
 5. go to http://localhost:8080/view/mypage/
