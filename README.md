@@ -1,5 +1,5 @@
 # GoWiki
-A simple wiki site in go
+A simple wiki site in Golang
 
 ## setup
 1. pull the repo
